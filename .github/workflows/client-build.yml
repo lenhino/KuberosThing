@@ -33,4 +33,5 @@ jobs:
         with:
           context: ./client
           push: true
-          tags: ghcr.io/${{ steps.owner.outputs.lc }}/kubero-demo-todo-client:latest
+          tags: ghcr.io/${{ steps.owner.outputs.lc }}/grupointeligenciaartesanalclient:latest
+nal:latest
