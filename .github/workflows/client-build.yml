@@ -34,4 +34,3 @@ jobs:
           context: ./client
           push: true
           tags: ghcr.io/${{ steps.owner.outputs.lc }}/grupointeligenciaartesanalclient:latest
-nal:latest
